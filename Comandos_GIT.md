@@ -1,4 +1,7 @@
-Comandos do git para nao esquecer mais!
+** Vi em um repositorio e achei a ideia interessante, acabei criando no meu repositório também
+para facilitar meus estudos e futuros trabalhos.
+
+Comandos básicos do Git vistos em aulas.
 
 git commit -m"conteudo da mensagem de commit": Gravação de arquivo no git. Esse comando serve para commitar os arquivos no git.
 O "-m" é referete ao termo "message". Mensagem que será gravada no commit.
