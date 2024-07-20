@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj": {}
+    "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj": {
+    "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj",
+        "projectUniqueName": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj",
         "projectName": "FundamentosTeste",
-        "projectPath": "c:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj",
+        "projectPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj",
         "packagesPath": "C:\\Users\\Red\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\obj\\",
+        "outputPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
