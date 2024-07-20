@@ -1,22 +1,105 @@
 ﻿using System.Data.Common;
 using FundamentosTeste.Models;
 
-Console.WriteLine("Digite uma letra");
-string letra = Console.ReadLine();
+Calculadora calc = new Calculadora();
 
-switch (letra)
-{
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-    default:
-        Console.WriteLine("Não é vogal");
-        break;
-}
+calc.Somar(10, 30);
+calc.Subtrair(10, 50);
+calc.Multiplicar(15, 45);
+calc.Dividir(2, 2);
+calc.Potencia(3, 3);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);
+calc.RaizQuadrada(9);
+
+
+
+
+// int numero =10;
+
+// Console.WriteLine(numero);
+
+// Console.WriteLine("incrementando o 10");
+// //numero = numero + 1;
+// numero++;
+
+// Console.WriteLine(numero);
+
+
+// Operador NOT (!) inverte um valor booleano (falso / verdadeiro)
+// bool choveu = true;
+// bool estaTarde = true;
+
+// if (!choveu && !estaTarde)
+// {
+//     Console.WriteLine("Vou pedalar");
+// }
+// else
+// {
+//     Console.WriteLine("Vou pedalar outro dia");
+// }
+
+
+
+// Operador AND - todas condições devem ser verdadeiras //
+// bool possuiPresencaMinima = true;
+// double media = 6.5;
+
+// if (possuiPresencaMinima && media >= 7)
+// {
+//     Console.WriteLine("Aprovado");
+// }
+// else{
+//     Console.WriteLine("Reprovado");
+// }
+
+
+
+
+
+
+
+//** Operador OR - pelo menos uma condição deve ser verdadeira **//
+// bool ehMaiorDeIdade = true;
+// bool possuiAutorizacaoDoResponsavel = false;
+
+// if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+// {
+//     Console.WriteLine("Entrada liberada!");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada não liberada!");
+// }
+
+
+
+// Swicth Case é usado para dminuir a quantidade if e else no nosso codigo //
+// Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();
+
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
+//     default:
+//         Console.WriteLine("Não é vogal");
+//         break;
+// }
+
+
+
+
+
+
+
+
 // if (letra == "a" ||
 //     letra == "e" ||
 //     letra == "i" ||
@@ -29,9 +112,6 @@ switch (letra)
 // {
 //     Console.WriteLine("Não é vogal");
 // }
-
-
-
 
 
 
@@ -67,9 +147,6 @@ switch (letra)
 
 
 
-
-
-
 // int quantidadeEmEstoque = 10;
 // Console.WriteLine("Qual a quantidade deseja comprar?");
 // int quantidadeCompra = int.Parse(Console.ReadLine());
@@ -90,6 +167,11 @@ switch (letra)
 // else {
 //     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque");
 // }
+
+
+
+
+
 
 
 // int a = int.Parse("5");
