@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "FundamentosTeste.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/FundamentosTeste.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FundamentosTeste.Common.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "FundamentosTeste.Common/1.0.0": {
-      "type": "project",
-      "path": "FundamentosTeste.Common/FundamentosTeste.Common.csproj",
-      "msbuildProject": "FundamentosTeste.Common/FundamentosTeste.Common.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "FundamentosTeste.Common >= 1.0.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\Red\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj",
-      "projectName": "FundamentosTeste",
-      "projectPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.csproj",
+      "projectUniqueName": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.Common\\FundamentosTeste.Common.csproj",
+      "projectName": "FundamentosTeste.Common",
+      "projectPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.Common\\FundamentosTeste.Common.csproj",
       "packagesPath": "C:\\Users\\Red\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\obj\\",
+      "outputPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,11 +39,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.Common\\FundamentosTeste.Common.csproj": {
-              "projectPath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\FundamentosTeste\\FundamentosTeste.Common\\FundamentosTeste.Common.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

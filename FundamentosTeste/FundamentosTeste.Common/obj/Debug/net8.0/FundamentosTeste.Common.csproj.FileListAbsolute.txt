@@ -1,0 +1,10 @@
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\bin\Debug\net8.0\FundamentosTeste.Common.deps.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\bin\Debug\net8.0\FundamentosTeste.Common.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\bin\Debug\net8.0\FundamentosTeste.Common.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\FundamentosTeste.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\FundamentosTeste.Common.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\FundamentosTeste.Common.sourcelink.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\FundamentosTeste.Common.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\refint\FundamentosTeste.Common.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\FundamentosTeste.Common.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\FundamentosTeste\FundamentosTeste.Common\obj\Debug\net8.0\ref\FundamentosTeste.Common.dll

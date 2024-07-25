@@ -1,44 +1,143 @@
 ﻿using System.Data.Common;
-using FundamentosTeste.Models;
+using System.Net.Mail;
+using FundamentosTeste.Common.Models;
 
-string opcao;
-bool exibirMenu;
+List<string> listaString = new List<string>();
 
-while(exibirMenu)
-{
-    Console.Clear();
-    Console.WriteLine("Digite a sua opção:");
-    Console.WriteLine("1 - Cadastrar cliente");
-    Console.WriteLine("2 - Buscar cliente");
-    Console.WriteLine("3 - Apagar cliente");
-    Console.WriteLine("4 - Encerrar");
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
 
-    opcao = Console.ReadLine();
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
 
-    switch(opcao)
-    {
-        case "1":
-            Console.WriteLine("Cadastro de cliente");
-            break;
+listaString.Add("SC");
 
-        case "2":
-            Console.WriteLine("Busca de cliente");
-            break;
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
 
-        case "3":
-            Console.WriteLine("Apagar cliente");
-            break;
+listaString.Remove("BA");
 
-        case "4":
-            Console.WriteLine("Encerrar");
-            exibirMenu = false;
-            break;
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
 
-        default:
-            Console.WriteLine("Opção inválida");
-            break;
-    }
-}
+
+
+// for(int contador = 0; contador < listaString.Count; contador++)
+// {
+//     Console.WriteLine($"Posição Nº {contador} - {listaString[contador]}");
+// }
+
+// // ** é mais recomendado percorrer listas com FOREACH 
+// int contadorForeach = 0;
+// foreach(string item in listaString);
+
+//     Console.WriteLine($"Posição Nº {contadorForeach} - {item}");
+//     contadorForeach++;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+// /*Resize "redimensiona" o array ( na verdade cria um novo array com a nova 
+// capacidade passada e copia os elementos do array antigo)
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length *2); */
+
+// Console.WriteLine("Percorrendo o Array com FOR");
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
+// }
+
+// Console.WriteLine("Percorrendo o Array com FOREACH");
+// int contadorForeach = 0; esse contador so serve pra ver a posição
+// foreach(int valor in arrayInteiros)
+// {
+//     Console.WriteLine(valor);
+    //Console.WriteLine($"Posição Nº {contadorForeach} - {valor}");
+    //contadorForeach++
+//}
+
+//****************** Vc precisa do valor do contador? FOR
+//****************** Vc não precisa do valor do contador? FOREACH (mais simples)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string opcao;
+// bool exibirMenu = true;
+
+// while(exibirMenu)
+// {
+//     Console.Clear();
+//     Console.WriteLine("Digite a sua opção:");
+//     Console.WriteLine("1 - Cadastrar cliente");
+//     Console.WriteLine("2 - Buscar cliente");
+//     Console.WriteLine("3 - Apagar cliente");
+//     Console.WriteLine("4 - Encerrar");
+
+//     opcao = Console.ReadLine();
+
+//     switch(opcao)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de cliente");
+//             break;
+
+//         case "2":
+//             Console.WriteLine("Busca de cliente");
+//             break;
+
+//         case "3":
+//             Console.WriteLine("Apagar cliente");
+//             break;
+
+//         case "4":
+//             Console.WriteLine("Encerrar");
+//             exibirMenu = false;
+//             break;
+
+//         default:
+//             Console.WriteLine("Opção inválida");
+//             break;
+//     }
+// }
 
 
 

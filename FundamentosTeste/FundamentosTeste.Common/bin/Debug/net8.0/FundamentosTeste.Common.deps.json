@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "FundamentosTeste/1.0.0": {
-        "dependencies": {
-          "FundamentosTeste.Common": "1.0.0"
-        },
-        "runtime": {
-          "FundamentosTeste.dll": {}
-        }
-      },
       "FundamentosTeste.Common/1.0.0": {
         "runtime": {
           "FundamentosTeste.Common.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "FundamentosTeste/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "FundamentosTeste.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
