@@ -3,7 +3,6 @@ using System.Net.Mail;
 using FundamentosTeste.Common.Models;
 
 List<string> listaString = new List<string>();
-
 listaString.Add("SP");
 listaString.Add("BA");
 listaString.Add("MG");

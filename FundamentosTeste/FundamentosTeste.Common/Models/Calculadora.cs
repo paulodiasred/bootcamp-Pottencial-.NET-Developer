@@ -5,8 +5,14 @@ using System.Threading.Tasks;
 
 namespace FundamentosTeste.Common.Models
 {
-    public class Calculadora
+
+        public class Calculadora
     {
+        /// <summary>
+        /// Realiza a soma de dois numeros
+        /// </summary>
+        /// <param name="x">O primeiro numero inteiro para somar</param>
+        /// <param name="y">O segundo interio para somar</param>
         public void Somar(int x, int y)
         {
             Console.WriteLine($"{x} + {y} = {x + y}");
