@@ -1,0 +1,14 @@
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\bin\Debug\net8.0\TesteCodigosDio.exe
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\bin\Debug\net8.0\TesteCodigosDio.deps.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\bin\Debug\net8.0\TesteCodigosDio.runtimeconfig.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\bin\Debug\net8.0\TesteCodigosDio.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\bin\Debug\net8.0\TesteCodigosDio.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.AssemblyInfo.cs
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\refint\TesteCodigosDio.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\TesteCodigosDio.genruntimeconfig.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\TesteCodigosDio\obj\Debug\net8.0\ref\TesteCodigosDio.dll
