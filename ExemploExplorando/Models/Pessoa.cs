@@ -7,6 +7,18 @@ namespace ExemploExplorando.Models
 {
     public class Pessoa
     {
+        //construtror sempre é o primeiro item da sua classe
+        public Pessoa()
+        {
+
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+
+        }
+
         private string _nome;
         private int _idade;
         public string Nome 
