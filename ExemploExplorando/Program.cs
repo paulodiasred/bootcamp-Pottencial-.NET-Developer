@@ -1,17 +1,61 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
+using System.Net.Mail;
 
-//alterando "localização" do codigo
-CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
+string dataString = "2024-12-17 22:00";
+//DateTime data = DateTime.Now;
+//DateTime data = DateTime.Parse("13/07/2025 19:00");
 
-//formatando valores monetarios
-decimal valorMonetario = 1582.40M;
+bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data);
 
-//alterando localização da cultura
-Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
-//Console.WriteLine($"{valorMonetario:C}");
+if (sucesso)
+{
+    Console.WriteLine($"Conversão com sucesso! Data: {data}");
+}
+else
+{
+    Console.WriteLine($"{dataString} não é uma data válida!");
+}
+//Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
+
+//Console.WriteLine(data.ToShortDateString());
+
+//Console.WriteLine(data.ToShortTimeString());
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //alterando "localização" do codigo
+// CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
+
+// //formatando valores monetarios
+// decimal valorMonetario = 1582.40M;
+
+// //alterando localização da cultura
+// Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("en-US"))); //resul: $1,582.40
+// //Console.WriteLine($"{valorMonetario:C}");
+
+// Console.WriteLine(valorMonetario.ToString("C2")); //resul: R$ 1.582,40
+
+// Console.WriteLine(valorMonetario.ToString("N3")); // resul: 1.582,400
+
+// double porcentagem = .3421;
+// Console.WriteLine(porcentagem.ToString("P"));
+
+// int numero = 123456;
+// Console.WriteLine(numero.ToString("##-##-##"));
 
 
 
