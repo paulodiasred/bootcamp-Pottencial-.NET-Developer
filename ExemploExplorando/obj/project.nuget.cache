@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w/4CbMqCEg8=",
+  "dgSpecHash": "m1pFhm6iU+k=",
   "success": true,
   "projectFilePath": "C:\\Users\\Red\\Documents\\developer initiation\\bootcamp-Pottencial-.NET-Developer\\ExemploExplorando\\ExemploExplorando.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Red\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

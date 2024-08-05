@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Material de escritório",
+    "Preco": 25.00,
+    "DataVenda": "2024-08-05T18:56:23.0518188-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Licença de Software",
+    "Preco": 110.00,
+    "DataVenda": "2024-08-05T18:56:23.0518188-03:00"
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "CDKEY Steam",
+    "Preco": 59.90,
+    "DataVenda": "2024-08-05T18:56:23.0518188-03:00"
+  },
+  {
+    "Id": 4,
+    "Nome_Produto": "Jogo Bomberman 64",
+    "Preco": 76.50,
+    "DataVenda": "2024-08-05T18:56:23.0518188-03:00"
+  }
+]

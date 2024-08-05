@@ -1,14 +1,82 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 using System.Net.Mail;
+using Newtonsoft.Json;
 
-int numero = 15;
-bool ehPar = false;
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
 
-// IF Ternário
-ehPar = numero % 2 == 0;
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
 
-Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
+foreach (Venda venda in listaVenda)
+{
+    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyy HH:mm")}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//serializando um objeto ***********
+// DateTime dataAtual = DateTime.Now;
+// List<Venda> listaVendas = new List<Venda>();
+
+// Venda v1 = new Venda(1, "Material de escritório", 25.00m, dataAtual);
+// Venda v2 = new Venda(2, "Licença de Software", 110.00m, dataAtual);
+// Venda v3 = new Venda(3, "CDKEY Steam", 59.90m, dataAtual);
+// Venda v4 = new Venda(4, "Jogo Bomberman 64", 76.50m, dataAtual);
+
+// listaVendas.Add(v1);
+// listaVendas.Add(v2);
+// listaVendas.Add(v3);
+// listaVendas.Add(v4);
+
+// string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+// File.WriteAllText("Arquivos/vendas.json", serializado);
+
+// Console.WriteLine(serializado);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int numero = 15;
+// bool ehPar = false;
+
+// // IF Ternário
+// ehPar = numero % 2 == 0;
+
+// Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
 
 
 
