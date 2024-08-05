@@ -2,6 +2,134 @@
 using System.Globalization;
 using System.Net.Mail;
 
+int numero = 15;
+bool ehPar = false;
+
+// IF Ternário
+ehPar = numero % 2 == 0;
+
+Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
+
+
+
+
+// if (numero % 2 == 0)
+// {
+//     Console.WriteLine($"O número {numero} é par");
+// }
+// else
+// {
+//         Console.WriteLine($"O número {numero} é ímpar");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // * construtor
+// Pessoa p1 = new Pessoa("Paulo", "Dias");
+
+// // * desconstrutor 
+// (string nome, string sobrenome) = p1;
+
+// Console.WriteLine($"{nome} {sobrenome}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
+//     Console.WriteLine("Quantidade linhas do arquivo: " + quantidadeLinhas);
+//     foreach (string linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possível ler o arquivo");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // outro exemplo de Tupla
+// ValueTuple<int, string, string, decimal> outroExemploTupla = (7, "Thassia", "Corrade", 1.56m);
+// // outro exemplo de Tupla
+// var maisUmExemploTupla = Tuple.Create(3, "Mohamed", "Abdalah", 1.80m);
+
+// // atraves de uma tupla podemos representar em uma unica variável diferentes tipos de dados.
+// // é uma alternativa a criação de classe
+// // tupla no caso abaixo é o nome da variável
+// (int, string, string, decimal) tupla = (37, "Paulo", "Dias", 1.75m);
+// // acima o metodo mais recomendado
+
+// Console.WriteLine($"Id: {tupla.Item1}");
+// Console.WriteLine($"Nome: {tupla.Item2}");
+// Console.WriteLine($"Sobrenome: {tupla.Item3}");
+// Console.WriteLine($"Altura: {tupla.Item4}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Dictionary
 // Dictionary<string, string> estados = new Dictionary<string, string>();
 
