@@ -2,15 +2,134 @@
 using System.Globalization;
 using System.Net.Mail;
 using Newtonsoft.Json;
+using System.ComponentModel;
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+int numero = 22;
+bool par = false;
 
-List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+// IF Ternário
+par = numero.EhPar();
 
-foreach (Venda venda in listaVenda)
-{
-    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyy HH:mm")}");
-}
+string mensagem = "O número " + numero + " " + "é " + (par ? "par" : "ímpar");
+Console.WriteLine(mensagem);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+// arrayInteiro.AdicionarElementoArray(30);
+
+// Console.WriteLine(arrayInteiro[0]);
+
+
+// MeuArray<string> arrayString = new MeuArray<string>();
+
+// arrayString.AdicionarElementoArray("Teste");
+
+// Console.WriteLine(arrayString[0]);
+
+
+
+
+
+
+
+
+//variavel dinamica
+// dynamic variavelDinamica = 4;
+
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = "Texto";
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = 45.7m;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = true;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
+
+
+
+
+
+
+
+
+
+// var tipoAnonimo = new { Nome = "Paulo", Sobrenome = "Dias", Altura = 1.75 };
+
+// Console.WriteLine("Nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobrenome);
+// Console.WriteLine("Altura: " + tipoAnonimo.Altura);
+
+
+
+
+
+
+
+
+
+
+
+
+
+// bool? desejaReceberEmail = true;
+
+// if (desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+// {
+//     Console.WriteLine("O usuário optou por receber e-mail.");
+// }
+// else
+// {
+//     Console.WriteLine("O usuário não respondeu ou optou por não receber e-mail.");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco });
+
+// foreach (var venda in listaAnonimo)
+// {
+//     Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+// }
+
+// foreach (Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, Preço: {venda.Preco}, " +
+//     $"Data: {venda.DataVenda.ToString("dd/MM/yyy HH:mm")} " +
+//     $" {(venda.Desconto.HasValue ? $"Desconto de {venda.Desconto}" : "")}");
+// }
 
 
 
