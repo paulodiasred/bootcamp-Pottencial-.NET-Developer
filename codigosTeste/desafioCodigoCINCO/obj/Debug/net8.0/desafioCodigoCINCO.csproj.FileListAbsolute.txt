@@ -1,0 +1,15 @@
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\bin\Debug\net8.0\desafioCodigoCINCO.exe
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\bin\Debug\net8.0\desafioCodigoCINCO.deps.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\bin\Debug\net8.0\desafioCodigoCINCO.runtimeconfig.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\bin\Debug\net8.0\desafioCodigoCINCO.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\bin\Debug\net8.0\desafioCodigoCINCO.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.AssemblyInfo.cs
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.sourcelink.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\refint\desafioCodigoCINCO.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\desafioCodigoCINCO.genruntimeconfig.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoCINCO\obj\Debug\net8.0\ref\desafioCodigoCINCO.dll
