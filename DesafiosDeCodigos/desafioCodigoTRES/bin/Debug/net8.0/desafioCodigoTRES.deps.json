@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafioCodigoTRES/1.0.0": {
+        "runtime": {
+          "desafioCodigoTRES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafioCodigoTRES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

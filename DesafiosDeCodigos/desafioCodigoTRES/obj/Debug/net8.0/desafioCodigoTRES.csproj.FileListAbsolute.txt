@@ -1,0 +1,14 @@
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.AssemblyInfo.cs
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\bin\Debug\net8.0\desafioCodigoTRES.exe
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\bin\Debug\net8.0\desafioCodigoTRES.deps.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\bin\Debug\net8.0\desafioCodigoTRES.runtimeconfig.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\bin\Debug\net8.0\desafioCodigoTRES.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\bin\Debug\net8.0\desafioCodigoTRES.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\refint\desafioCodigoTRES.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\desafioCodigoTRES.genruntimeconfig.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoTRES\obj\Debug\net8.0\ref\desafioCodigoTRES.dll
