@@ -1,0 +1,15 @@
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\bin\Debug\net8.0\desafioCodigoQUATRO.exe
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\bin\Debug\net8.0\desafioCodigoQUATRO.deps.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\bin\Debug\net8.0\desafioCodigoQUATRO.runtimeconfig.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\bin\Debug\net8.0\desafioCodigoQUATRO.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\bin\Debug\net8.0\desafioCodigoQUATRO.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.AssemblyInfo.cs
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.sourcelink.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\refint\desafioCodigoQUATRO.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\desafioCodigoQUATRO.genruntimeconfig.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoQUATRO\obj\Debug\net8.0\ref\desafioCodigoQUATRO.dll

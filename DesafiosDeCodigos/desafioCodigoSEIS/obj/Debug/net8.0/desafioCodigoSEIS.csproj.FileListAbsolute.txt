@@ -1,0 +1,15 @@
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\bin\Debug\net8.0\desafioCodigoSEIS.exe
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\bin\Debug\net8.0\desafioCodigoSEIS.deps.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\bin\Debug\net8.0\desafioCodigoSEIS.runtimeconfig.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\bin\Debug\net8.0\desafioCodigoSEIS.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\bin\Debug\net8.0\desafioCodigoSEIS.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.AssemblyInfoInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.AssemblyInfo.cs
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.csproj.CoreCompileInputs.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.sourcelink.json
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\refint\desafioCodigoSEIS.dll
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.pdb
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\desafioCodigoSEIS.genruntimeconfig.cache
+C:\Users\Red\Documents\developer initiation\bootcamp-Pottencial-.NET-Developer\codigosTeste\desafioCodigoSEIS\obj\Debug\net8.0\ref\desafioCodigoSEIS.dll
