@@ -1,0 +1,8 @@
+/* Desafio 1
+ Construa um algoritmo para um pequeno game, no qual o Player 1 entra com um 
+ número de 0 a 9, e o Player 2 tenta adivinhar o número informado.
+
+Desafio 2 ( foi falado depois de finalizar o desafio 1 )
+ Oq impede os players de digitarem numeros diferentes de 0 a 9, 
+ crie uma regra para impossibilitar isso e caso seja digitado, 
+ informe que é um número inválido e peça outro número */
