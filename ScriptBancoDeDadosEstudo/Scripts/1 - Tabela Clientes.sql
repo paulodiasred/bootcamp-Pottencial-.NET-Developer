@@ -1,15 +1,4 @@
--- Criação da tabela
-CREATE TABLE [dbo].[Clientes](
-	[Id] [int] IDENTITY(1,1) NOT NULL,
-	[Nome] [varchar](255) NULL,
-	[Sobrenome] [varchar](255) NULL,
-	[Email] [varchar](255) NULL,
-	[AceitaComunicados] [bit] NULL,
-	[DataCadastro] [datetime2](7) NULL
-) ON [PRIMARY]
-GO
 
--- Inserção de dados
 INSERT INTO Clientes VALUES ('Ken','Sánchez','email@email.com',0,'Jan  7 2009 12:00AM')
 INSERT INTO Clientes VALUES ('Terri','Duffy','email@email.com',1,'Jan 24 2008 12:00AM')
 INSERT INTO Clientes VALUES ('Roberto','Tamburello','email@email.com',0,'Nov  4 2007 12:00AM')
