@@ -6,20 +6,18 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ModuloAPI.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class UsuarioController : ControllerBase
     {
-        [HttpGet("ObterDataHoraAtual")]
-        public IActionResult ObterDataHora()
+        [ApiController]
+        [Route("[controller]")]
+        public class UsuarioController : ControllerBase
         {
-            var obj = new
+            public IActionResult ObterDataHora()
             {
-                Data = DateTime.Now.ToLongDateString(),
-                Hora = DateTime.Now.ToShortTimeString()
-            };
-
-            return Ok(obj);
+                var obj = new
+                {
+                    Data = DateTime
+                }
+            }
         }
     }
 }

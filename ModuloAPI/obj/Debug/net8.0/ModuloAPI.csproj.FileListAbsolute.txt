@@ -5,7 +5,6 @@ C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloA
 C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\ModuloAPI.runtimeconfig.json
 C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\ModuloAPI.dll
 C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\ModuloAPI.pdb
-C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\bootcamp-Pottencial-.NET-Developer\bootcamp-Pottencial-.NET-Developer\ModuloAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
