@@ -1,5 +1,5 @@
 namespace ModuloAPI;
-
+#nullable enable
 public class WeatherForecast
 {
     public DateOnly Date { get; set; }
