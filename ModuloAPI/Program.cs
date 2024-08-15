@@ -1,5 +1,6 @@
 using ModuloAPI.Context;
 using Microsoft.EntityFrameworkCore;
+using Entities.Contato;
 
 var builder = WebApplication.CreateBuilder(args);
 
