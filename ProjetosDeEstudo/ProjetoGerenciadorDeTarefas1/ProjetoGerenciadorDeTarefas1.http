@@ -1,0 +1,6 @@
+@ProjetoGerenciadorDeTarefas1_HostAddress = http://localhost:5038
+
+GET {{ProjetoGerenciadorDeTarefas1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
