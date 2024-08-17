@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "hr5xCcfW9oE=",
+  "success": true,
+  "projectFilePath": "C:\\bootcamp-Pottencial-.NET-Developer\\bootcamp-Pottencial-.NET-Developer\\ProjetosDeEstudo\\ProjetoApiPagamentos\\ProjetoApiPagamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Red\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\microsoftentityframework\\1.0.0\\microsoftentityframework.1.0.0.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Red\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
